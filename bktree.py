@@ -105,5 +105,5 @@ print "BUILDING TREE.........."
 for i in range(1,len(words)):
 		addword(root,words[i])
 output.close()
-
+#lulz
 
